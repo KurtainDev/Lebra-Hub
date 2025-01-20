@@ -8,6 +8,8 @@ spectating will be added soon so be tuned (nobody even knows about this script)
 
 local ScreenGui = Instance.new("ScreenGui", game.Players.LocalPlayer.PlayerGui)
 
+ScreenGui.ResetOnSpawn = true
+
 local AliveNDead = Instance.new("Frame")
 local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
 local UIGradient = Instance.new("UIGradient")
