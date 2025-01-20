@@ -26,7 +26,6 @@ local UICorner_4 = Instance.new("UICorner")
 
 ScreenGui.ResetOnSpawn = true
 
-
 Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
